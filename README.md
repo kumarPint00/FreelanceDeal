@@ -1,3 +1,3 @@
 # The Freelancer's Smart Contract
 
-Refer to blog post at https://jacksonng.org/freelancer-1
+A contract which deal between client and freelancer
